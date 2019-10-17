@@ -25,7 +25,7 @@ const me = function(){
 
 me();
 
-// Principle 3
+// Principle 3 /
 // code example for New Binding
 var sayMyName = function () {
     console.log('My name is ' + this.name);
